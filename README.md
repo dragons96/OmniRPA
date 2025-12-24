@@ -10,8 +10,8 @@ OmniRPAFlow (formerly ai-web-spider) is an AI-powered web automation and spideri
 - **Extensible**: Modular node system allowing custom implementations.
 - **Robust Backend**: Built with FastAPI and SQLAlchemy for performance and reliability.
 
-[workflow](./workflow.png)
+![workflow](./workflow.png)
 
-[debug](./debug.png)
+![debug](./debug.png)
 
-[ai](./ai.png)
+![ai](./ai.png)
