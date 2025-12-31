@@ -11,6 +11,12 @@ OmniRPAFlow is an AI-powered multi-platform automation and spidering tool design
 - **Robust Backend**: Built with FastAPI and SQLAlchemy for performance and reliability.
 
 ## Examples
+**AI Web Development:**
+<video src="./11.mp4" width="640" height="360" controls></video>
+
+**AI Android Development:**
+<video src="./22.mp4" width="640" height="360" controls></video>
+
 **Workflow Editor:**
 ![workflow](./workflow.png)
 **Web Debugger:**
