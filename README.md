@@ -1,6 +1,6 @@
 # OmniRPAFlow
 
-OmniRPAFlow (formerly ai-web-spider) is an AI-powered web automation and spidering tool designed to simplify complex web interactions and data extraction tasks. It features a visual workflow editor, AI-driven node execution, and a robust backend for managing automation tasks.
+OmniRPAFlow is an AI-powered multi-platform automation and spidering tool designed to simplify complex multi-platform interactions and data extraction tasks. It features a visual workflow editor, AI-driven node execution, and a robust backend for managing automation tasks.
 
 ## 🚀 Features
 
