@@ -13,12 +13,18 @@ OmniRPAFlow is an AI-powered multi-platform automation and spidering tool design
 ## Examples
 **AI Web Development:**
 
-https://dragons96.github.io/OmniRPA/web_workflow.mp4
+
+https://github.com/user-attachments/assets/c7f8e772-0126-4aba-8a94-d20598c3bef7
+
+
 
 
 **AI Android Development:**
 
-https://dragons96.github.io/OmniRPA/android_workflow.mp4
+
+https://github.com/user-attachments/assets/bfc82ac0-5500-4320-b914-8151b26c7059
+
+
 
 **Workflow Editor:**
 ![workflow](./workflow.png)
