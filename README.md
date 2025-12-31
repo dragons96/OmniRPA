@@ -28,3 +28,5 @@ OmniRPAFlow is an AI-powered multi-platform automation and spidering tool design
 **AI Support:**
 ![ai](./ai.png)
 
+
+The open source version will be launched in April 2026. If you are interested, please provide support from a star.
